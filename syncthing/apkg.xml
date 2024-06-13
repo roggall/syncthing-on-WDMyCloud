@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <apkg>
+    <item>
+      <procudt_id>0</procudt_id>
+      <custom_id>20</custom_id>
+      <model_id>2</model_id>
+      <app_id>3</app_id>
+      <user_control>1</user_control>
+      <center_type>0</center_type>
+      <individual_flag>0</individual_flag>
+      <name>syncthing</name>
+      <show>Syncthing</show>
+      <enable>1</enable>
+      <version>1.21</version>
+      <date>20240613</date>
+      <inst_date/>
+      <path/>
+      <ps_name/>
+      <url>index.html</url>
+      <url_port/>
+      <apkg_version>2</apkg_version>
+      <packager>roggall</packager>
+      <email/>
+      <homepage>https://syncthing.com</homepage>
+      <inst_depend/>
+      <inst_conflict/>
+      <start_depend/>
+      <start_conflict/>
+      <description>Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.</description>
+      <icon>syncthing.png</icon>
+      <MinFWVer>3.10.111</MinFWVer>
+      <MaxFWVer/>
+      <Hidden/>
+    </item>
+  </apkg>
+</config>

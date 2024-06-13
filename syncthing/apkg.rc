@@ -1,0 +1,22 @@
+Package: syncthing
+Section: Apps
+Version: 1.21
+Packager: roggall
+Email: 
+Homepage: https://syncthing.com
+Description: Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.
+AddonShowName: Syncthing
+Icon: syncthing.png
+AddonIndexPage: index.html
+AddonUsedPort:
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+CenterType:
+UserControl: 1
+MinFWVer: 3.10.111
+MaxFWVer: 
+
+
+
